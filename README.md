@@ -15,9 +15,9 @@ The objective of the assignment is to:
 - `package.json` — Node.js configuration and npm scripts.  
 
 ## Setup & Run Instructions
+```bash
 
 ### 1. Clone the repo
-```bash
 git clone https://github.com/<your-username>/LitmusCheck_Playwright_TakeHome.git
 cd LitmusCheck_Playwright_TakeHome
 
